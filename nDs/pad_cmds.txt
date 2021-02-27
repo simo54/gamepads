@@ -1,0 +1,16 @@
+up = direction
+left = direction
+right = direction
+down = direction
+
+a = action
+b = action
+x = action
+y = action
+
+left-shoulder = action
+right-shoulder = action
+
+power = on/off
+start = menu'
+select = select
