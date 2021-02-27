@@ -1,0 +1,19 @@
+up = direction
+left = direction
+right = direction
+down = direction
+
+a = action
+b = action
+
+cUp = direction
+cLeft = direction
+cRight = direction
+cDown = direction
+
+left-shoulder = action
+right-shoulder = action
+
+z = action
+
+start = menu'
